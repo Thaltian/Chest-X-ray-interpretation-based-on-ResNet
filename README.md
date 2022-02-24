@@ -1,4 +1,5 @@
-# ECE9123-X-ray
+# Chest-X-ray-interpretation-based-on-ResNet
+
 This is the term project for ECE9123 by Yang Hu and Hao Tian. 
 
 Since we use visdom to perfrom real-time inspection, please install visdom libraray in python and initate output port(e.g. You can just use "visdom" command in terminal to initate). Of course it is totally fine if you don't initate visdom if you don't want to inspect training process in real time. It won't affect training process of the model.
